@@ -33,6 +33,75 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.6.2\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.Desktop.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Data.Desktop.26.1.5\lib\net462\DevExpress.Data.Desktop.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Data.26.1.5\lib\net462\DevExpress.Data.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Drawing.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Drawing.26.1.5\lib\net462\DevExpress.Drawing.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Office.v26.1.Core, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Office.Core.26.1.5\lib\net462\DevExpress.Office.v26.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v26.1.Core, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Pdf.Core.26.1.5\lib\net462\DevExpress.Pdf.v26.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v26.1.Drawing, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Pdf.Drawing.26.1.5\lib\net462\DevExpress.Pdf.v26.1.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v26.1.Core, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.PivotGrid.Core.26.1.5\lib\net462\DevExpress.PivotGrid.v26.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v26.1.Core, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Printing.Core.26.1.5\lib\net462\DevExpress.Printing.v26.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v26.1.Core, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.RichEdit.Core.26.1.5\lib\net462\DevExpress.RichEdit.v26.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v26.1.Export, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.RichEdit.Export.26.1.5\lib\net462\DevExpress.RichEdit.v26.1.Export.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v26.1.Core, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Sparkline.Core.26.1.5\lib\net462\DevExpress.Sparkline.v26.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Utils.26.1.5\lib\net462\DevExpress.Utils.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.Navigation.26.1.5\lib\net462\DevExpress.XtraBars.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.Navigation.26.1.5\lib\net462\DevExpress.XtraEditors.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.Grid.26.1.5\lib\net462\DevExpress.XtraGrid.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.Navigation.26.1.5\lib\net462\DevExpress.XtraLayout.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.26.1.5\lib\net462\DevExpress.XtraNavBar.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.PivotGrid.26.1.5\lib\net462\DevExpress.XtraPivotGrid.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.Printing.26.1.5\lib\net462\DevExpress.XtraPrinting.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.TreeList.26.1.5\lib\net462\DevExpress.XtraTreeList.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.VerticalGrid.26.1.5\lib\net462\DevExpress.XtraVerticalGrid.v26.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraWizard.v26.1, Version=26.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Win.26.1.5\lib\net462\DevExpress.XtraWizard.v26.1.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,11 +115,51 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Common\AppColors.cs" />
+    <Compile Include="Common\BaseForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Common\DbHelper.cs" />
+    <Compile Include="Common\ThemeManager.cs" />
+    <Compile Include="Common\UserSession.cs" />
+    <Compile Include="Forms\AuthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CommonCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReceivableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ShipmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -63,6 +172,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +185,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\packages\DevExpress.Data.26.1.5\analyzers\dotnet\DevExpress.Generator.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
